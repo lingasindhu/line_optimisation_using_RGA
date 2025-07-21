@@ -1,0 +1,26 @@
+## Number of lines 
+n=10
+
+ # Spacing between lines (chip units)
+B=200
+
+# Starting line number (1 to n)
+i=1
+
+# Vertical reference distance (chip units)
+L=1000
+
+# Minimum speed (m/s)
+v_min=40
+
+# Maximum speed (m/s)
+v_max=80
+
+# Population size 
+pop_size=200
+
+# Maximum number of generations 
+n_gen=200
+
+# Number of algorithm runs (1+)
+n_runs=2
